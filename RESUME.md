@@ -41,7 +41,8 @@ ETC
 - I'm not extraordinary person.  
 But I have a dream in Game company.  
 I said that I want to be a better person, starting with a lower course.  
-So, For the good person in company which hired me.
+So I want to be a good person in the company that hired me.
+For your sake.
 
 
   
