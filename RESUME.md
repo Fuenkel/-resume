@@ -33,7 +33,7 @@ ETC
 ####  What I want to say  
 - I'm not extraordinary person.  
 But I have a dream in Game company.  
-I said that I want to be a better person, starting with a lower course.
+I said that I want to be a better person, starting with a lower course.  
 So, For the good person in company which hired me.
 
 
