@@ -1,25 +1,40 @@
-이력서
+Readme
 =====
-> 이름 : **최선호**  
-> 학교 : 한림대학교  
-> 학과 : <U>소프트웨어융합대학</U>
+> Name : **최선호(Choi Sun Ho)**  
+> School : Hallym Univ.  
+> Major : <U> Math</U>  
+          <U>Computer Science</U>
 -----------------------------
-#### 수강과목
-* 오픈소스리눅스  
-  + C++  
------------------------------
-추천 사이트  
-[Google][googlelink] 
+#### Taking Classes
+* It  
+  + C
+  + JAVA
+  + OPENSW
+  + Linux
+* Math
+  + Algebra
+  + Geometry
+  + Calculus
+  + Topology
+  + Analysis  
+ETC
+----------------------------
+#### > Hobby  
+  * Play the Drum  
+  * Play the game  
+  * Listen to music(like Jazz, Rock and so on)  
+  * Activate Health  
+  
+#### > Favorite Field  
+  * Game Programing  
+  * The Japanese Company  
+  * Fixed Debug in Game
+----------------------------  
+####  What I want to say  
+- I'm not extraordinary person.  
+But I have a dream in Game company.  
+I said that I want to be a better person, starting with a lower course.
+So, For the good person in company which hired me.
 
-[Google][googlelink] 
 
-[Google](https://google.com)
-//인라인  
-<https://google.com>
-
-
-
-[googlelink]: https://google.com "Go google"
-
-
-+underline
+  
