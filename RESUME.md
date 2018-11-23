@@ -4,16 +4,18 @@ Readme
 > School : Hallym Univ.  
 ![한림](hallym.png)  
 > Major : <U> Math</U> & <U>Computer Science</U>
-![math](math.jpg)
-![cs](c_s.jpg)
+
+
 -----------------------------
 #### Taking Classes
-* It  
+* It    
+![cs](c_s.jpg)
   + C
   + JAVA
   + OPENSW
   + Linux
-* Math
+* Math  
+![math](math.jpg)
   + Algebra
   + Geometry
   + Calculus
