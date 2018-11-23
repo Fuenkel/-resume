@@ -2,8 +2,10 @@ Readme
 =====
 > Name : **최선호(Choi Sun Ho)**  
 > School : Hallym Univ.  
-> Major : <U> Math</U>  
-          <U>Computer Science</U>
+![한림](hallym.png)  
+> Major : <U> Math</U> & <U>Computer Science</U>
+![math](math.jpg)
+![cs](c_s.jpg)
 -----------------------------
 #### Taking Classes
 * It  
@@ -20,6 +22,7 @@ Readme
 ETC
 ----------------------------
 #### > Hobby  
+  ![drum](drum.jpg)
   * Play the Drum  
   * Play the game  
   * Listen to music(like Jazz, Rock and so on)  
@@ -27,6 +30,8 @@ ETC
   
 #### > Favorite Field  
   * Game Programing  
+  ![atlus](atlus.jpg)
+  ![squeni](square_enix.png)
   * The Japanese Company  
   * Fixed Debug in Game
 ----------------------------  
