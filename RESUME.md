@@ -2,7 +2,7 @@ Readme
 =====
 > Name : **최선호(Choi Sun Ho)**  
 > School : Hallym Univ.  
-![한림](hallym.png)  
+![한림](hallym1.png)  
 > Major : <U> Math</U> & <U>Computer Science</U>
 
 
