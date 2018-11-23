@@ -37,7 +37,7 @@ ETC
   * The Japanese Company  
   * Fixed Debug in Game
 ----------------------------  
-####  What I want to say  
+######  What I want to say  
 - I'm not extraordinary person.  
 But I have a dream in Game company.  
 I said that I want to be a better person, starting with a lower course.  
