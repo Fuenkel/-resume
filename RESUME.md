@@ -32,9 +32,10 @@ ETC
   
 #### > Favorite Field  
   * Game Programing  
-  ![atlus](atlus.jpg)  
-  ![squeni](square_enix.png)
+  
   * The Japanese Company  
+  ![atlus](atlus.jpg)  
+  ![squeni](square_enix.png)  
   * Fixed Debug in Game
 ----------------------------  
 ######  What I want to say  
